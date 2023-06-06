@@ -4,7 +4,7 @@ The notebook in this repository takes as input a URL to a live audio stream and 
 
 By default, the starter code is set up to provide English subtitles for BBC Radio's 24-hour livestream.
 
-Note: This .ipynb file was written in Google Colab. For the best results, we recommend running it there.
+Note: This .ipynb file was written in Google Colab. For the best results, we recommend running it there. Nevertheless, all the instructions needed to understand the notebook are embedded within the file's text and comments.
 
 You can also consult [this video](https://www.youtube.com/watch?v=dq4AiiiaAsY) for a tutorial and demo! Note, that the results look like [this](https://youtu.be/dq4AiiiaAsY?t=195)
 
